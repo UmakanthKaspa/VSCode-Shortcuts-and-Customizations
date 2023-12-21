@@ -91,5 +91,3 @@
   ```
 
 ---
-
-Feel free to further customize or elaborate on each section as needed. This README aims to provide an organized and attractive resource for learning and quick reference, making your GitHub repository an invaluable learning hub for VS Code enthusiasts.
